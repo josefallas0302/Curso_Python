@@ -19,8 +19,10 @@ Lista = [Booleano,Entero,Decimal,Texto] # Creo una lista de Elementos distintos
 # Se accede al elemento directamente, no tiene iterador.
 
 print("Inicio el for \n")
+
+i = 0
 for elemento in Lista:
-	i = 0				
+			
 	print("Estoy en el elemento:",i ) 
 	print("\n y accedo a un elemento de tipo: ",type(elemento))
 	print("\n")							 # Esto es un Salto
