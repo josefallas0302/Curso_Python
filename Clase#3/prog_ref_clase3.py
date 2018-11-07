@@ -15,7 +15,7 @@ def Function1(Parameter_a,Parameter_b):
 		result = "Variable global x es False"   					
 
 
-	return result
+	return n
 
 def Function2():	
 	"""Esta funcion no recibe parametros"""
